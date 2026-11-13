@@ -1,0 +1,94 @@
+{
+  "item": {
+    "id": "com.ydnac.applesnake",
+    "restype": "quick_app",
+    "name": "苹果蛇",
+    "description": "🎮 游戏简介\n苹果蛇是一款画风软萌的 2D 横板解谜闯关游戏。操控贪吃蛇吞果变长，在紧凑关卡里巧妙突围，每一关都是烧脑布局。不仅考验空间智慧，更有海量趣味皮肤等你解锁。更多模式近千关卡（雕刻大师，挑战模式）等你来战！\n👚末影龙、疾旋鼬、皮肤等你发现！\n\n游戏需要通过同步器激活\n交流群：839861515",
+    "preview": [
+      "media/mbp-2026-03-13-14-34-39.png",
+      "media/mbp-2026-03-13-14-35-07.png",
+      "media/rw.png",
+      "media/mb10-2026-03-13-14-39-44.png",
+      "media/rw-2026-03-13-14-40-57.png",
+      "media/苹果蛇_声明.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/苹果蛇.png",
+    "author": [
+      {
+        "name": "YGAME",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "购买链接",
+      "url": "https://ifdian.net/item/edfbaa561eb311f1b9e15254001e7c00",
+      "icon": "globe-simple"
+    },
+    {
+      "title": "同步器下载",
+      "url": "https://spas.lanzouw.com/s/ygame",
+      "icon": "download-simple"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "2.1.0",
+      "file_name": "downloads/苹果蛇2.1.0(红米56).rpk",
+      "versionCode": 261020
+    },
+    "xmrw6": {
+      "version": "2.1.0",
+      "file_name": "downloads/苹果蛇2.1.0(红米56).rpk",
+      "versionCode": 261020
+    },
+    "xmb10": {
+      "version": "2.1.0",
+      "file_name": "downloads/苹果蛇2.1.0(米环10).rpk",
+      "versionCode": 261020
+    },
+    "xmb10nfc": {
+      "version": "2.1.0",
+      "file_name": "downloads/苹果蛇2.1.0(米环10).rpk",
+      "versionCode": 261020
+    },
+    "xmb10p": {
+      "version": "2.1.0",
+      "file_name": "downloads/苹果蛇2.1.0(米环9Pro).rpk",
+      "versionCode": 261020
+    },
+    "xmb11": {
+      "version": "2.1.0",
+      "file_name": "downloads/苹果蛇2.1.0(米环10).rpk",
+      "versionCode": 261020
+    },
+    "xmb11nfc": {
+      "version": "2.1.0",
+      "file_name": "downloads/苹果蛇2.1.0(米环10).rpk",
+      "versionCode": 261020
+    },
+    "xmb9": {
+      "version": "2.1.0",
+      "file_name": "downloads/苹果蛇2.1.0(米环9).rpk",
+      "versionCode": 261020
+    },
+    "xmb9p": {
+      "version": "2.1.0",
+      "file_name": "downloads/苹果蛇2.1.0(米环9Pro).rpk",
+      "versionCode": 261020
+    },
+    "xmws3": {
+      "version": "2.1.0",
+      "file_name": "downloads/苹果蛇2.1.0(米表S3S4).rpk",
+      "versionCode": 261020
+    },
+    "xmws4": {
+      "version": "2.1.0",
+      "file_name": "downloads/苹果蛇2.1.0(米表S3S4).rpk",
+      "versionCode": 261020
+    }
+  },
+  "ext": {}
+}
